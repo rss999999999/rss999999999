@@ -1,21 +1,70 @@
-# 💫 About Me:
-🔭 I’m currently working on developing projects and expanding my skills in software development.<br>👯 I’m looking to collaborate on creating web sites and web applications. If you have any interesting projects or ideas, feel free to reach out!<br>🌱 I’m currently learning Java, HTML, CSS, and Angular to enhance my knowledge and stay up-to-date with the latest technologies in web development.<br>💬 Ask me about anything related to software development, web development, or programming languages. I'm always happy to share my knowledge and help others.<br>⚡ Fun fact: Did you know that the first website was created in 1991 by Tim Berners-Lee? It was a simple page with text and hyperlinks, and it marked the beginning of the World Wide Web as we know it today.
+# 👋 About Me
 
+I'm a backend developer specialized in Java enterprise applications, passionate about solving real-world problems with clean code and robust architectures. I thrive in environments where system integration, API design, SQL optimization, and automation are the main challenges.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+With solid experience in large-scale corporate projects, I focus on **Java (JavaEE, JBoss, Maven, Hibernate)**, **REST API design and documentation (OpenAPI/Swagger)**, and deep **Oracle PL/SQL troubleshooting**. My day-to-day involves refactoring legacy code, automating pipelines, reviewing code for best practices, and delivering scalable, maintainable solutions.
 
+---
 
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=rss999999999&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>  -->
+## 🚀 What drives me
+
+- Tackling complex bugs and reducing code complexity
+- Refactoring, code review, and keeping high standards of code quality
+- System integration (legacy and modern), batch processing, and PL/SQL optimization
+- Automating deployments and tests (Jenkins, Azure DevOps, Maven)
+- Performance tuning for APIs and database queries
+
+---
+
+## 🛠️ Main Skills
+
+- **Backend Java:** JavaEE, JBoss, Hibernate, JPA, Maven  
+- **API Design:** RESTful, OpenAPI, Swagger  
+- **SQL/PLSQL:** Oracle performance tuning and query troubleshooting  
+- **Legacy Systems:** Integration with SOAP, batch processes, system migrations  
+- **DevOps:** CI/CD pipelines with Jenkins & Azure DevOps  
+- **Best Practices:** Code review, clean architecture, documentation
+
+---
+
+## 💡 I value
+
+- Simple solutions for complex problems
+- Knowledge sharing and learning with the dev community
+- Well-documented, readable, and efficient code
+- Continuous improvement and automation wherever possible
+
+---
+
+If you want to talk about backend engineering, system optimization, or code refactoring, feel free to reach out! Always open to collaborate on challenging projects and share knowledge.
+
+---
+
+# 💻 Tech Stack
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/hibernate-%23323232.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![JBoss](https://img.shields.io/badge/jboss-%23CC0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
+![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/plsql-%231572B6.svg?style=for-the-badge&logo=oracle&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C3A42.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/azure%20devops-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+
+<!-- Add your other badges as needed -->
+
+---
+
+# 📈 GitHub Stats
+
+<!--
+![](https://github-readme-stats.vercel.app/api?username=rss999999999&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rss999999999&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rss999999999&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rss999999999&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-
+---
