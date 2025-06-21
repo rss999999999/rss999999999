@@ -1,39 +1,46 @@
 [![wakatime](https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg)](https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57)
 
 
-I'm a backend developer specialized in Java enterprise applications, passionate about solving real-world problems with clean code and robust architectures. I thrive in environments where system integration, API design, SQL optimization, and automation are the main challenges.
+I’m a backend developer specialized in Java enterprise chaos – if there’s a legacy system throwing ORA-01427, a batch job lost in JBoss logs, or a build pipeline that thinks “works on my machine” is a feature, I’m probably already debugging it (with a coffee in hand and ChatGPT on the second monitor).
 
-With solid experience in large-scale corporate projects, I focus on **Java (JavaEE, JBoss, Maven, Hibernate)**, **REST API design and documentation (OpenAPI/Swagger)**, and deep **Oracle PL/SQL troubleshooting**. My day-to-day involves refactoring legacy code, automating pipelines, reviewing code for best practices, and delivering scalable, maintainable solutions.
-
----
-
-## 🚀 What drives me
-
-- Tackling complex bugs and reducing code complexity
-- Refactoring, code review, and keeping high standards of code quality
-- System integration (legacy and modern), batch processing, and PL/SQL optimization
-- Automating deployments and tests (Jenkins, Azure DevOps, Maven)
-- Performance tuning for APIs and database queries
+When I’m not trying to make Hibernate behave, I’m obsessively refactoring code, automating stuff that people say “there’s no need to touch this”, or arguing with SonarQube because apparently my cognitive complexity is “above recommended levels”.
 
 ---
 
-## 🛠️ Main Skills
+## 🚀 What gets me out of bed (besides coffee and CI/CD failures)
 
-- **Backend Java:** JavaEE, JBoss, Hibernate, JPA, Maven  
-- **API Design:** RESTful, OpenAPI, Swagger  
-- **SQL/PLSQL:** Oracle performance tuning and query troubleshooting  
-- **Legacy Systems:** Integration with SOAP, batch processes, system migrations  
-- **DevOps:** CI/CD pipelines with Jenkins & Azure DevOps  
-- **Best Practices:** Code review, clean architecture, documentation
+- Turning bugs into features (or, at least, StackOverflow posts)
+- Transforming that “it works, don’t touch it!” legacy code into something readable (sorry, VB6)
+- Debugging PL/SQL until even Oracle gets confused
+- Creating APIs so well-documented, Swagger gives me a virtual medal
+- Making Jenkins and Azure DevOps do the hard work while I admire the logs
+- Hiding jokes in commit messages and README footers
 
 ---
 
-## 💡 I value
+## 🛠️ Skills (and battle scars)
 
-- Simple solutions for complex problems
-- Knowledge sharing and learning with the dev community
-- Well-documented, readable, and efficient code
-- Continuous improvement and automation wherever possible
+- ☕ JavaEE, JBoss, Hibernate, Maven (I even dream in XML)
+- 🔄 RESTful APIs, OpenAPI/Swagger (docs are not optional!)
+- 🥷 PL/SQL ninja (Oracle, just… behave)
+- 🦖 Batch jobs & migrations (I speak fluent “legacy system”)
+- ⚙️ CI/CD: Jenkins, Azure DevOps, and the occasional “why isn’t this building?”
+- 👀 Code review sensei & clean architecture preacher
+
+---
+
+## 💡 What I really value
+
+- Simple solutions for weird problems
+- Knowledge sharing (sometimes in the form of memes)
+- Code so clean you could eat off it
+- Automating everything (because laziness is a dev’s superpower)
+- Learning new tech, breaking it, then fixing it again
+
+---
+
+> If you ever find yourself wondering if you can put a snake game, a notepad GIF, and a visitor counter in a README... yes, you can. And you should. 😎
+
 
 ---
 
