@@ -38,28 +38,23 @@ With solid experience in large-scale corporate projects, I focus on **Java (Java
 
 ---
 
-If you want to talk about backend engineering, system optimization, or code refactoring, feel free to reach out! Always open to collaborate on challenging projects and share knowledge.
+## 💻 Tech Stack
 
----
+<div align="center">
+  ![Java](https://img.shields.io/badge/-java-white?style=for-the-badge&logo=java&logoColor=ED8B00&labelColor=white)
+  ![Spring](https://img.shields.io/badge/-spring-white?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=white)
+  ![Hibernate](https://img.shields.io/badge/-hibernate-white?style=for-the-badge&logo=hibernate&logoColor=762D37&labelColor=white)
+  ![JBoss](https://img.shields.io/badge/-jboss-white?style=for-the-badge&logo=jboss&logoColor=000000&labelColor=white)
+  ![Maven](https://img.shields.io/badge/-maven-white?style=for-the-badge&logo=apachemaven&logoColor=C71A36&labelColor=white)
+  ![Oracle](https://img.shields.io/badge/-oracle-white?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=white)
+  ![PL/SQL](https://img.shields.io/badge/-pl_sql-white?style=for-the-badge&logo=oracle&logoColor=1572B6&labelColor=white)
+  ![Angular](https://img.shields.io/badge/-angular-white?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=white)
+  ![TypeScript](https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=white)
+  ![Jenkins](https://img.shields.io/badge/-jenkins-white?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=white)
+  ![Azure DevOps](https://img.shields.io/badge/-azuredevops-white?style=for-the-badge&logo=azuredevops&logoColor=007ACC&labelColor=white)
+  ![Swagger](https://img.shields.io/badge/-swagger-white?style=for-the-badge&logo=swagger&logoColor=85EA2D&labelColor=white)
+</div>
 
-# 💻 Tech Stack
-
-<!-- Usando estilo 'for-the-badge' com logos modernos -->
-![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%23762D37?style=for-the-badge&logo=hibernate&logoColor=white)
-![JBoss](https://img.shields.io/badge/JBoss-%23000000?style=for-the-badge&logo=jboss&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL_SQL-%231572B6?style=for-the-badge&logo=oracle&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-%23007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-
----
 
 # 📈 GitHub Stats
 
