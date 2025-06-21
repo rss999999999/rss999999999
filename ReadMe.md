@@ -67,6 +67,8 @@ With solid experience in large-scale corporate projects, I focus on **Java (Java
 
 <div align="center">
 
+
+
   ![Visitor Count](https://profile-counter.glitch.me/rss999999999/count.svg)
   
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
