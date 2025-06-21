@@ -40,29 +40,17 @@ With solid experience in large-scale corporate projects, I focus on **Java (Java
 
 ## 💻 Tech Stack
 
-<div align="center">
-  ![Java](https://img.shields.io/badge/-java-white?style=for-the-badge&logo=java&logoColor=ED8B00&labelColor=white)
-  ![Spring](https://img.shields.io/badge/-spring-white?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=white)
-  ![Hibernate](https://img.shields.io/badge/-hibernate-white?style=for-the-badge&logo=hibernate&logoColor=762D37&labelColor=white)
-  ![JBoss](https://img.shields.io/badge/-jboss-white?style=for-the-badge&logo=jboss&logoColor=000000&labelColor=white)
-  ![Maven](https://img.shields.io/badge/-maven-white?style=for-the-badge&logo=apachemaven&logoColor=C71A36&labelColor=white)
-  ![Oracle](https://img.shields.io/badge/-oracle-white?style=for-the-badge&logo=oracle&logoColor=F80000&labelColor=white)
-  ![PL/SQL](https://img.shields.io/badge/-pl_sql-white?style=for-the-badge&logo=oracle&logoColor=1572B6&labelColor=white)
-  ![Angular](https://img.shields.io/badge/-angular-white?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=white)
-  ![TypeScript](https://img.shields.io/badge/-typescript-white?style=for-the-badge&logo=typescript&logoColor=007ACC&labelColor=white)
-  ![Jenkins](https://img.shields.io/badge/-jenkins-white?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=white)
-  ![Azure DevOps](https://img.shields.io/badge/-azuredevops-white?style=for-the-badge&logo=azuredevops&logoColor=007ACC&labelColor=white)
-  ![Swagger](https://img.shields.io/badge/-swagger-white?style=for-the-badge&logo=swagger&logoColor=85EA2D&labelColor=white)
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="Hibernate" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg">
+  <img align="center" alt="JBoss" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jboss/jboss-original.svg">
+  <img align="center" alt="Maven" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg">
+  <img align="center" alt="Oracle" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Angular" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="TypeScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Jenkins" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg">
+  <img align="center" alt="AzureDevops" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg">
+  <img align="center" alt="Swagger" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg">
 </div>
-
-
-# 📈 GitHub Stats
-
-<!--
-![](https://github-readme-stats.vercel.app/api?username=rss999999999&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
--->
-![](https://github-readme-streak-stats.herokuapp.com/?user=rss999999999&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rss999999999&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
 
