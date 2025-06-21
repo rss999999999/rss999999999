@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg)](https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57)
+
 # 👋 About Me
 
 I'm a backend developer specialized in Java enterprise applications, passionate about solving real-world problems with clean code and robust architectures. I thrive in environments where system integration, API design, SQL optimization, and automation are the main challenges.
@@ -42,20 +44,20 @@ If you want to talk about backend engineering, system optimization, or code refa
 
 # 💻 Tech Stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/hibernate-%23323232.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![JBoss](https://img.shields.io/badge/jboss-%23CC0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
-![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/plsql-%231572B6.svg?style=for-the-badge&logo=oracle&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C3A42.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/azure%20devops-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+<!-- Usando estilo 'for-the-badge' com logos modernos -->
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23762D37?style=for-the-badge&logo=hibernate&logoColor=white)
+![JBoss](https://img.shields.io/badge/JBoss-%23000000?style=for-the-badge&logo=jboss&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-%23C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL_SQL-%231572B6?style=for-the-badge&logo=oracle&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-%23007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-<!-- Add your other badges as needed -->
 
 ---
 
@@ -69,30 +71,3 @@ If you want to talk about backend engineering, system optimization, or code refa
 
 ---
 
-
-# ⏱️ Code Time
-
-[![wakatime](https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg)](https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57)
-
-> **Code time badge powered by [WakaTime](https://wakatime.com/):**  
-> The badge above shows my total coding activity, updated daily (it may not include today's activity yet).  
-> Customize the badge look with `?style=default|plastic|flat|flat-square|for-the-badge|social`.
-
-<!--  
-Alternative badge formats for your README or other docs:
-- Markdown: 
-  [![wakatime](https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg)](https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57)
-- HTML: 
-  <a href="https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57"><img src="https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg" alt="Total time coded since Aug 20 2023" /></a>
-- Textile: 
-  !https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg!:https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57
-- Rdoc: 
-  {<img src="https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg" alt="wakatime" />}[https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57]
-- AsciiDoc: 
-  image:https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg["wakatime", link="https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57"]
-- reStructuredText: 
-  .. image:: https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg
-      :target: https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57
-- Pod: 
-  =for html <a href="https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57"><img src="https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg"></a>
--->
