@@ -61,15 +61,11 @@ With solid experience in large-scale corporate projects, I focus on **Java (Java
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rss999999999/rss999999999/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<br><br><br>
 
 <!-- Footer -->
-
 <div align="center">
-
-
-
   ![Visitor Count](https://profile-counter.glitch.me/rss999999999/count.svg)
-  
   <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
   <!-- "margin-right: whatever;" -->
   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
