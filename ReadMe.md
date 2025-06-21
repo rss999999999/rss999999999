@@ -68,3 +68,31 @@ If you want to talk about backend engineering, system optimization, or code refa
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rss999999999&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+
+
+# ⏱️ Code Time
+
+[![wakatime](https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg)](https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57)
+
+> **Code time badge powered by [WakaTime](https://wakatime.com/):**  
+> The badge above shows my total coding activity, updated daily (it may not include today's activity yet).  
+> Customize the badge look with `?style=default|plastic|flat|flat-square|for-the-badge|social`.
+
+<!--  
+Alternative badge formats for your README or other docs:
+- Markdown: 
+  [![wakatime](https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg)](https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57)
+- HTML: 
+  <a href="https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57"><img src="https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg" alt="Total time coded since Aug 20 2023" /></a>
+- Textile: 
+  !https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg!:https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57
+- Rdoc: 
+  {<img src="https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg" alt="wakatime" />}[https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57]
+- AsciiDoc: 
+  image:https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg["wakatime", link="https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57"]
+- reStructuredText: 
+  .. image:: https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg
+      :target: https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57
+- Pod: 
+  =for html <a href="https://wakatime.com/@e08613f8-deb4-42f1-8102-6431151ace57"><img src="https://wakatime.com/badge/user/e08613f8-deb4-42f1-8102-6431151ace57.svg"></a>
+-->
