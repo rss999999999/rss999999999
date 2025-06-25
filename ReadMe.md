@@ -9,7 +9,7 @@ When I’m not trying to make Hibernate behave, I’m obsessively refactoring co
 
 ## 🚀 What gets me out of bed (besides coffee and CI/CD failures)
 
-- Turning bugs into features (or, at least, StackOverflow posts)
+- Turning bugs into features
 - Transforming that “it works, don’t touch it!” legacy code into something readable (sorry, VB6)
 - Debugging PL/SQL until even Oracle gets confused
 - Creating APIs so well-documented, Swagger gives me a virtual medal
